@@ -4,6 +4,22 @@ body{
     color: rgb(255, 255, 255);
     background: rgb(54, 54, 87);
 }
+#cabecera{
+    background: cornsilk;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-size: 20px;
+    color: blue;
+    margin: 0;
+    padding: 0.5em;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+#cabecera #tagline{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.7em;
+    color: black;
+}
 #container{
     width: 70%;
     padding: 1em;
